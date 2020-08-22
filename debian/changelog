@@ -1,0 +1,5 @@
+classicwm (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- wjk <wjk@optiplex>  Sat, 22 Aug 2020 12:06:17 -0700

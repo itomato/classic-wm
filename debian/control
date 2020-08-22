@@ -1,0 +1,16 @@
+Source: classicwm
+Section: unknown
+Priority: optional
+Maintainer: wjk <wjk@optiplex>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.0
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/classicwm
+#Vcs-Git: https://salsa.debian.org/debian/classicwm.git
+Rules-Requires-Root: no
+
+Package: classicwm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
